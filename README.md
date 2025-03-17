@@ -60,6 +60,11 @@ A navegação é feita utilizando **Expo Router**, permitindo acessar as seguint
 - Você pode editar os estilos dentro da pasta `styles/` para personalizar o layout conforme sua necessidade.
 - Modifique os componentes em `src/components/` para reutilização e melhor organização.
 
+## 🔄 Atualização
+
+- 🔑 **Sistema de Login e Autenticação**: Adicionado suporte ao **Clerk** para autenticação de usuários.
+- 📱 **Integração com Expo Router**: O sistema de login foi totalmente integrado ao fluxo de navegação.
+
 ## 🤝 Contribuição
 
 Sinta-se à vontade para contribuir com melhorias! Basta abrir um **pull request** ou relatar um **issue**.
@@ -131,6 +136,11 @@ Navigation is handled using **Expo Router**, allowing access to the following pa
 
 - You can edit the styles inside the `styles/` folder to customize the layout as needed.
 - Modify the components in `src/components/` for reusability and better organization.
+
+## 🔄 Update
+
+- 🔑 **Login & Authentication System**: Added support for **Clerk** user authentication.
+- 📱 **Integration with Expo Router**: The login system is now fully integrated into the navigation flow.
 
 ## 🤝 Contribution
 
